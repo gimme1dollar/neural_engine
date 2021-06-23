@@ -29,6 +29,11 @@ Online Self-Rewarded Hierarchical Feature Extracting Algorithm
 about 80% accuracy succeed.
 
 ### Temporal Feature
-#### [On Prediction with (unintentional) saccade]
+#### [On one pattern prediction]![image]
+![one](https://user-images.githubusercontent.com/20160685/123117681-ee102200-d47c-11eb-8770-b16a066e2295.png)
+The trained model predicts right-going ball with activations indicating different sparsely represented numbers, so distinguishes the pattern from down-going state. 
 
-#### [On Classification of MNIST with Saccade]
+## On working theme 
+1) One multi pattern prediction
+2) On Prediction with (unintentional) saccade
+3) On Classification of MNIST with Saccade
